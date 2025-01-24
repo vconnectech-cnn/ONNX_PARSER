@@ -1,7 +1,7 @@
 # ONNX_PARSER
 Setup Instructions:
 1.Clone the repository:
-git clone <https://github.com/LakshmiSaiGeetha/ONNX_PARSER.git>
+git clone <https://github.com/vconnectech-cnn/ONNX_PARSER.git>
 cd <ONNX_PARSER>
 
 2.Onnx models path:
